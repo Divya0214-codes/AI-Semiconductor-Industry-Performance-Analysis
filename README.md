@@ -107,9 +107,27 @@ DAX was used to create **aggregations, calculated measures, KPI metrics, trend a
 
 ---
 
-## 🖥️ Dashboard Preview
+## 🖥️ Dashboard Overview
+An interactive Power BI dashboard providing a comprehensive view of the AI semiconductor industry through revenue, shipments, chip pricing, manufacturing capacity, R&D investment, chip launches, and export-control trends. It combines multi-source data with dynamic KPIs, interactive filters, and business-focused visualizations to support strategic market analysis and decision-making.
 
-![AI Semiconductor Industry Dashboard](dashboard_preview.png)
+<img width="1427" height="742" alt="Screenshot 2026-09-08 180108" src="https://github.com/user-attachments/assets/2e72956c-cb84-4377-955b-80b7694d0cda" />
+
+The dashboard provides a comprehensive executive-level view of the AI semiconductor industry.
+
+##🔹 KPI Section
+
+The top section provides high-level industry metrics such as:
+
+Total Revenue: approximately 1.73M
+Total Profit: approximately 2.78K
+Total Capacity: approximately 34M
+Average Chip Price: approximately 4.28K
+Total AI Chips: 120
+Total Shipments: approximately 14M
+Total Companies: 40
+Total Countries: 9
+
+These KPIs provide an immediate overview of the industry's scale and performance.
 
 The dashboard includes interactive filters for:
 
